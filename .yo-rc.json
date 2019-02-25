@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.andromeda.galaxy",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "gateway",
+    "baseName": "andromeda",
+    "packageName": "com.andromeda.galaxy",
+    "packageFolder": "com/andromeda/galaxy",
+    "serverPort": "7050",
+    "authenticationType": "oauth2",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "consul",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr", "de", "pt-pt", "es"]
+  }
+}
