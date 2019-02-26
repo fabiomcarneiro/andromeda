@@ -1,4 +1,5 @@
-# andromeda
+# Andromeda
+[![Build Status](https://travis-ci.com/fabiomcarneiro/andromeda.svg?branch=master)](https://travis-ci.com/fabiomcarneiro/andromeda)
 
 This application was generated using JHipster 5.8.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.1](https://www.jhipster.tech/documentation-archive/v5.8.1).
 
